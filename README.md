@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 2nd Year B.Tech Student in Computer Science, Hyderabad, India.
-##### Interested in Machine Learning. 
+##### Interested in Machine Learning and Data Science. 
 ##### Currently improving at coding. (or trying to anyways)
 ##### Hope to eventually do significant contributions to open-source.
 ##### Reach me at saffand03@gmail.com
