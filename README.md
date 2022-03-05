@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ##### Interested in Machine Learning and Data Science. 
 ##### Currently improving at coding. (or trying to anyways)
 ##### Hope to eventually do significant contributions to open-source.
-##### Reach me at saffand03@gmail.com
+###### *Reach me at saffand03@gmail.com*
 
 [Certificate-CS50x](https://certificates.cs50.io/7730213a-d5de-4777-b08e-67519201edbc.pdf?size=letter) || [Certificate-MITx](https://courses.edx.org/certificates/2a6d32fe7a964dd9a99652c5cdb3d3c3)
