@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ```py
 
-class Affan_Daimi:
+class Affan_D:
     def __init__(self):
         self.Languages = ['Python','C/C++','Java','MATLAB']
         self.Interests = 'Data Scence and Machine Learning'
