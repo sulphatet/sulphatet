@@ -46,9 +46,17 @@ class Affan_D:
   <a href="https://github.com/sulphatet">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=sulphatet&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+      src="https://github-profile-trophy.vercel.app/?username=sulphatet&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>  
   </a>
 </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/sulphatet">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=sulphatet&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
 
