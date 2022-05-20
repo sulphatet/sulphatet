@@ -34,7 +34,7 @@ class Affan_D:
         self.Interests = 'Data Scence and Machine Learning'
         
     def working_on(self):
-        return 'Certification on Machine Learning from Coursera'
+        return 'Certification on Machine Learning and Data Analysis'
 
 ```
 
