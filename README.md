@@ -31,15 +31,19 @@ Here are some ideas to get you started:
 class Affan_D:
     def __init__(self):
         self.Languages = ['Python','C/C++','Java','MATLAB']
-        self.Interests = 'Data Scence and Machine Learning'
+        self.Interests = 'Data Science and Machine Learning'
         
     def working_on(self):
-        return 'Certification on Machine Learning and Data Analysis'
+        return 'Creating Machine Learning based models with emphasis on Computer Vision'
+        
+    def collaborate_with_me(self):
+        if (somethingInteresting()):
+            return 'Reach me via my e-mail!!!'
+        return ' I am always open to new experiences! 
+                Open-Source, Hackathlons, Pizza Parties, just hit me up'
 
 ```
 
-##### Currently improving at coding. (or trying to anyways)
-##### Hope to eventually do significant contributions to open-source.
 ###### *Reach me at saffand03@gmail.com*
 
 <p align="center">
