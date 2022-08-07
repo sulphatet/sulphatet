@@ -31,10 +31,12 @@ Here are some ideas to get you started:
 class Affan_D:
     def __init__(self):
         self.Languages = ['Python','C/C++','Java','MATLAB']
-        self.Interests = 'Data Science and Machine Learning'
+        self.Interests = 'Data Science, Machine Learning,
+                           broadly invested in any Scientific Computing problem'
         
     def working_on(self):
-        return 'Creating Machine Learning based models with emphasis on Computer Vision'
+        return 'Creating humanitarian Machine Learning based models,
+                with emphasis on Computer Vision'
         
     def collaborate_with_me(self):
         if (somethingInteresting()):
