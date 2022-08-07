@@ -32,7 +32,7 @@ class Affan_D:
     def __init__(self):
         self.Languages = ['Python','C/C++','Java','MATLAB']
         self.Interests = 'Data Science, Machine Learning,
-                           broadly invested in any Scientific Computing problem'
+                         broadly invested in any Scientific Computing problem'
         
     def working_on(self):
         return 'Creating humanitarian Machine Learning based models,
