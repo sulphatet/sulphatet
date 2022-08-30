@@ -32,17 +32,17 @@ class Affan_D:
     def __init__(self):
         self.Languages = ['Python','C/C++','Java','MATLAB']
         self.Interests = 'Data Science, Machine Learning,
-                         broadly invested in any Scientific Computing problem'
+                       broadly invested in any Scientific Computing problem'
         
     def working_on(self):
         return 'Creating humanitarian Machine Learning based models,
-                with emphasis on Computer Vision'
+              with emphasis on Computer Vision'
         
     def collaborate_with_me(self):
         if (somethingInteresting()):
             return 'Reach me via my e-mail!!!'
         return ' I am always open to new experiences! 
-                Open-Source, Hackathlons, Pizza Parties, just hit me up'
+              Open-Source, Hackathlons, Pizza Parties, just hit me up'
 
 ```
 
