@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 2nd Year B.Tech Student in Computer Science, Hyderabad, India.
+#### 3rd Year B.Tech Student in Computer Science, Hyderabad, India.
 ## [Certificate-CS50x](https://certificates.cs50.io/7730213a-d5de-4777-b08e-67519201edbc.pdf?size=letter) || [Certificate-MITx](https://courses.edx.org/certificates/2a6d32fe7a964dd9a99652c5cdb3d3c3)
 
 
