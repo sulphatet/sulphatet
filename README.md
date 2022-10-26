@@ -1,4 +1,4 @@
-### Hello There
+## Hello There
 
 <!--
 **sulphatet/sulphatet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 3rd Year B.Tech Student in Computer Science, Hyderabad, India.
-## [Certificate-CS50x](https://certificates.cs50.io/7730213a-d5de-4777-b08e-67519201edbc.pdf?size=letter) || [Certificate-MITx](https://courses.edx.org/certificates/2a6d32fe7a964dd9a99652c5cdb3d3c3)
+### [Certificate-CS50x](https://certificates.cs50.io/7730213a-d5de-4777-b08e-67519201edbc.pdf?size=letter) || [Certificate-MITx](https://courses.edx.org/certificates/2a6d32fe7a964dd9a99652c5cdb3d3c3)
 
 
 <a  href="https://github.com/sulphatet">
@@ -40,14 +40,22 @@ class Affan_D:
         
     def collaborate_with_me(self):
         if (somethingInteresting()):
-            return 'Reach me via my e-mail!!!'
+            return 'I am available on LinkedIn!!!'
         return ' I am always open to new experiences! 
               Open-Source, Hackathlons, Pizza Parties, just hit me up'
 
 ```
+### **<p align = "center">Reach out to me on my  </p>** 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/syed-affan-38b378216/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+  </a>
+</a>
+</p>
 
-###### *Reach me at saffand03@gmail.com*
-
+<br>
 <p align="center">
   <a href="https://github.com/sulphatet">
     <img
