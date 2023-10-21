@@ -74,7 +74,8 @@ class Affan_D:
 </a>
 </p>
 
-<p align="center">
+<!--
+ <p align="center">
   <a href="https://github.com/sulphatet">
     <img
       align="center"
@@ -82,4 +83,5 @@ class Affan_D:
       src="https://github-readme-stats.vercel.app/api?username=sulphatet&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
+  -->
 
