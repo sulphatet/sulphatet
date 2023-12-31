@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 3rd Year B.Tech Student in Computer Science, Hyderabad, India.
-### [Certificate-CS50x](https://certificates.cs50.io/7730213a-d5de-4777-b08e-67519201edbc.pdf?size=letter) || [Certificate-MITx](https://courses.edx.org/certificates/2a6d32fe7a964dd9a99652c5cdb3d3c3) || [AI-900](https://www.credly.com/badges/0cea5243-6d1c-41a5-bb67-82f02f0fd873) || [DP-900](https://www.credly.com/badges/44181426-f8a4-4bf7-91ce-568e2806f08d/public_url) || [PL-900](https://www.credly.com/badges/21dff19d-9e59-447d-831c-b65b82774c1d/public_url)
+### [AI-900](https://www.credly.com/badges/0cea5243-6d1c-41a5-bb67-82f02f0fd873) || [DP-900](https://www.credly.com/badges/44181426-f8a4-4bf7-91ce-568e2806f08d/public_url) || [PL-900](https://www.credly.com/badges/21dff19d-9e59-447d-831c-b65b82774c1d/public_url)
 
 
 <a  href="https://github.com/sulphatet">
